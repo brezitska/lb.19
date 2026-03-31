@@ -1,0 +1,14 @@
+C:\Users\valyux\source\repos\lab.19\lab.19\bin\Debug\net10.0\lab.19.exe
+C:\Users\valyux\source\repos\lab.19\lab.19\bin\Debug\net10.0\lab.19.deps.json
+C:\Users\valyux\source\repos\lab.19\lab.19\bin\Debug\net10.0\lab.19.runtimeconfig.json
+C:\Users\valyux\source\repos\lab.19\lab.19\bin\Debug\net10.0\lab.19.dll
+C:\Users\valyux\source\repos\lab.19\lab.19\bin\Debug\net10.0\lab.19.pdb
+C:\Users\valyux\source\repos\lab.19\lab.19\obj\Debug\net10.0\lab.19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valyux\source\repos\lab.19\lab.19\obj\Debug\net10.0\lab.19.AssemblyInfoInputs.cache
+C:\Users\valyux\source\repos\lab.19\lab.19\obj\Debug\net10.0\lab.19.AssemblyInfo.cs
+C:\Users\valyux\source\repos\lab.19\lab.19\obj\Debug\net10.0\lab.19.csproj.CoreCompileInputs.cache
+C:\Users\valyux\source\repos\lab.19\lab.19\obj\Debug\net10.0\lab.19.dll
+C:\Users\valyux\source\repos\lab.19\lab.19\obj\Debug\net10.0\refint\lab.19.dll
+C:\Users\valyux\source\repos\lab.19\lab.19\obj\Debug\net10.0\lab.19.pdb
+C:\Users\valyux\source\repos\lab.19\lab.19\obj\Debug\net10.0\lab.19.genruntimeconfig.cache
+C:\Users\valyux\source\repos\lab.19\lab.19\obj\Debug\net10.0\ref\lab.19.dll
